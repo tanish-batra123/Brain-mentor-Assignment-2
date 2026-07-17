@@ -1,7 +1,7 @@
 import News from "../models/newsModals.js";
 import { generateSummary } from "../utils/gemini.js";
 
-const API_KEY = "64adf8f8d76d4d0694fba36aa7508836";
+const API_KEY = "5d2ec854d50446caa5d25894f7e220b9";
 
 export const newsStore = {
    general:[],
