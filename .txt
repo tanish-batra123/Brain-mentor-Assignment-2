@@ -1,0 +1,11 @@
+// function renderNews(newsArr) {
+//   const container = document.querySelector(".news-list");
+   container.innerHTML = "";
+   newsArr.forEach((news) => {
+     const card = document.createElement("div");
+     card.className = "news-card";
+    
+
+//     container.appendChild(card);
+//   });
+// }
