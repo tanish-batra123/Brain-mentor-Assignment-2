@@ -1,6 +1,6 @@
 const API_KEY="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"
 
-const HF_TOKEN="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"
+const HF_TOKEN="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"
 
 
 
