@@ -1,6 +1,6 @@
 const API_KEY=""
 
-const HF_TOKEN=""
+const HF_TOKEN="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"
 
 
 
